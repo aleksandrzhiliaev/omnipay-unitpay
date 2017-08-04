@@ -1,6 +1,5 @@
 # omnipay-unitpay
-[![Build Status](https://travis-ci.org/aleksandrzhiliaev/omnipay-unitpay.svg?branch=master)](https://travis-ci.org/aleksandrzhiliaev/omnipay-unitpay)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/95c32cb06d414446a6a3e960f48152e5)](https://www.codacy.com/app/sassoftinc/omnipay-unitpay?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=aleksandrzhiliaev/omnipay-unitpay&amp;utm_campaign=Badge_Grade)
+https://travis-ci.org/aleksandrzhiliaev/omnipay-unitpay.svg?branch=master[![Codacy Badge](https://api.codacy.com/project/badge/Grade/95c32cb06d414446a6a3e960f48152e5)](https://www.codacy.com/app/sassoftinc/omnipay-unitpay?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=aleksandrzhiliaev/omnipay-unitpay&amp;utm_campaign=Badge_Grade)
 [![Latest Stable Version](https://poser.pugx.org/aleksandrzhiliaev/omnipay-unitpay/v/stable)](https://packagist.org/packages/aleksandrzhiliaev/omnipay-unitpay)
 [![Total Downloads](https://poser.pugx.org/aleksandrzhiliaev/omnipay-unitpay/downloads)](https://packagist.org/packages/aleksandrzhiliaev/omnipay-unitpay)
 
